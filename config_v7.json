@@ -1,0 +1,15 @@
+{
+    "detection_confidence_threshold": 0.50,
+    "live_stream_enabled": false,
+    "live_stream_port": 8001,
+    "live_stream_resolution_width": 640,
+    "live_stream_resolution_height": 480,
+    
+    "thermal_enabled": true,
+    "thermal_confirm_human": true,
+    "thermal_min_temperature_celsius": 28.0, 
+    "thermal_roi_analysis_size_px": 30,
+    "thermal_camera_width": 256,
+    "thermal_camera_height": 192,
+    "thermal_intensity_threshold_hot": 160
+}
