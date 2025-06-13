@@ -1,0 +1,6 @@
+pyserial
+opencv-python-headless
+numpy
+ultralytics
+rich
+piexif
